@@ -15,8 +15,8 @@
 :apiClasses UP-TO-DATE
 :sourceMainJava UP-TO-DATE
 :compileJava UP-TO-DATE
-:processResources UP-TO-DATE
-:classes UP-TO-DATE
+:processResources
+:classes
 :jar
 :sourceTestJava UP-TO-DATE
 :compileTestJava UP-TO-DATE
@@ -31,11 +31,11 @@
 :reobfJar
 :extractRangemapReplacedMain UP-TO-DATE
 :retromapReplacedMain UP-TO-DATE
-:sourceJar UP-TO-DATE
+:sourceJar
 :assemble
 :check UP-TO-DATE
 :build
 
 BUILD SUCCESSFUL
 
-Total time: 24.509 secs
+Total time: 20.649 secs

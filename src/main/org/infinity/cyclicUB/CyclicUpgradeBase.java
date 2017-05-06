@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid=CyclicUpgradeBase.modId, name=CyclicUpgradeBase.name, version=CyclicUpgradeBase.version, acceptedMinecraftVersions="[1.10.2]")
 public class CyclicUpgradeBase {
-	public static final String modId = "cyclicUpgradeBase";
+	public static final String modId = "cyclicupgradebase";
 	public static final String name = "Cyclic Upgrade Base";
 	public static final String version = "1.0.0";
 	

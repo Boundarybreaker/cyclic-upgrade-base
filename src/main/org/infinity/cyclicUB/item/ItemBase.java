@@ -1,8 +1,9 @@
 package org.infinity.cyclicUB.item;
 
+import org.infinity.cyclicUB.CyclicUpgradeBase;
+
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import org.infinity.cyclicUB.CyclicUpgradeBase;
 
 public class ItemBase extends Item {
 	protected String name;

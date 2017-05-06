@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "cyclicUB:items/upgradeBase"
+		"layer0": "CyclicUpgradeBase:items/upgradeBase"
 	}
 }
