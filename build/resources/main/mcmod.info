@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cyclicUpgradeBase",
+  "name": "Cyclic Upgrade Base",
+  "description": "Creates an item to be used for crafting Cyclic upgrades.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["B0undarybreaker"],
+  "credits": "Lothrazar for making Cyclic",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
